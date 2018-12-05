@@ -1,0 +1,13 @@
+main():
+
+        // EPLE program example
+	cout << "Sample EPLE Program..."
+	var=0
+	another=2
+	cout << var
+	// Another comment
+	cout << another
+	var++
+	cout << var
+	cout << var + another
+	cout << "For now, works perfectly with cout statements and some basic arithmetic..."
